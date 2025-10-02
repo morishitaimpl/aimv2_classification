@@ -1,0 +1,2 @@
+# aimv2_classification
+AIMv2で分類モデルを作ってみる
